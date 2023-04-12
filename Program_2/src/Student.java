@@ -1,5 +1,3 @@
-package Lab;
-
 public class Student
 {
 	String USN ;
