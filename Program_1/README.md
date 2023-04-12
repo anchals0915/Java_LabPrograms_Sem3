@@ -1,5 +1,3 @@
-
-Program 1
 Aim: Introduce the java fundamentals, data types, operators in java
 
 Program: Write a java program that prints all real solutions to the quadratic equation 
